@@ -1,2 +1,8 @@
 saved_model*
 .ipynb_checkpoints*
+train*
+test*
+
+
+
+
