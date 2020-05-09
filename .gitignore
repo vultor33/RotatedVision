@@ -3,6 +3,7 @@ saved_model*
 train*
 test*
 *.jpg
+*.log
 
 
 
